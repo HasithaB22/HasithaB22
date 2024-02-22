@@ -14,7 +14,7 @@
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>
 
-- 🌱 I’m currently Working on Web App(MERN stack)
+- 🌱 I’m currently Working on Web Application development (MERN stack)
 
 - 🌱 I’m currently learning **DevOps**
 
@@ -22,11 +22,12 @@
 
 - 💬 Ask me about **MERN stack**
 
-- 📫 How to reach me **hbonlinerd1@gmail.com**
+- 📫 How to reach me **hasithabandaranayake2000@gmail.com
+**
 
   
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/HasithaB22/My-Resume/blob/main/Hasitha%20Bandaranayake.pdf" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
