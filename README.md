@@ -38,6 +38,10 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/HasithaB22">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a
+	<a style="margin-left: 10px;" target="_blank" href="">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>		
+	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/hasitha_b22">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a> 
       </div>
 
 </p>
